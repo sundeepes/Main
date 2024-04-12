@@ -1,0 +1,28 @@
+L2 - AWS Administrator/DevOps Engineer
+Job Title: AWS Administrator/DevOps Engineer
+Department/Group: Cloud Operations
+Location: [Specify location]
+Grade: L2
+Role: Manage and optimize AWS infrastructure, and contribute to DevOps initiatives.
+Experience: 2-4 years of relevant experience.
+
+Roles and Responsibilities:
+Manage and administer AWS services, including EC2, S3, RDS, and VPC.
+Develop and maintain automation scripts for infrastructure provisioning and configuration management.
+Implement monitoring and alerting solutions for AWS resources.
+Collaborate with development teams to streamline CI/CD pipelines and deployment workflows.
+Develop and maintain disaster recovery (DR) and business continuity (BC) plans for AWS environments.
+Implement infrastructure as code (IaC) practices using tools like Terraform or AWS CloudFormation.
+Conduct performance tuning and optimization of AWS resources based on workload requirements.
+Design and implement backup and restore strategies for critical data stored in AWS services.
+Lead and participate in periodic reviews and audits of AWS environments to ensure compliance with organizational standards and regulatory requirements.
+
+Qualifications and Education Requirements:
+Bachelor's degree in Computer Science, Information Technology, or related field.
+Hands-on experience with AWS services and infrastructure management.
+Proficiency in scripting languages like Python, Bash, or PowerShell.
+
+Preferred Skills:
+AWS Certified Solutions Architect or AWS Certified DevOps Engineer certification.
+Experience with infrastructure as code (IaC) tools like Terraform or CloudFormation.
+Familiarity with container orchestration platforms like Kubernetes.

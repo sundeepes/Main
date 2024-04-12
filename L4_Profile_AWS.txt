@@ -1,0 +1,29 @@
+L4 - Principal AWS Architect/DevOps Lead
+Job Title: Principal AWS Architect/DevOps Lead
+Department/Group: Cloud Center of Excellence
+Location: [Specify location]
+Grade: L4
+Role: Define and implement strategic initiatives for AWS infrastructure and DevOps transformation.
+Experience: 6+ years of relevant experience.
+
+Roles and Responsibilities:
+Architect and design complex, multi-tier AWS solutions to meet business requirements.
+Lead DevOps transformation initiatives, driving automation, standardization, and best practices.
+Provide technical leadership and guidance to engineering teams on AWS and DevOps-related projects.
+Evaluate emerging technologies and make recommendations for adoption based on business needs.
+Define and drive the organization's cloud strategy, including roadmap planning and technology selection for AWS services.
+Lead architectural reviews and provide guidance on complex technical challenges and design decisions related to AWS solutions.
+Establish and enforce governance policies and standards for AWS usage across the organization.
+Act as a thought leader in the AWS community, representing the organization in industry events and conferences.
+Mentor and coach junior and mid-level engineers, fostering a culture of continuous learning and professional growth within the team.
+
+Qualifications and Education Requirements:
+Bachelor's or Master's degree in Computer Science, Information Technology, or related field.
+Extensive hands-on experience with architecting and deploying AWS solutions at scale.
+Expertise in DevOps methodologies, tools, and practices.
+
+Preferred Skills:
+AWS Certified Solutions Architect - Professional and AWS Certified DevOps Engineer - Professional certifications.
+Experience leading large-scale cloud migration projects.
+Strong communication and stakeholder management skills.
+These JDs provide a framework for defining the roles and responsibilities, experience requirements, and preferred skills for AWS Administrator/DevOps positions at different levels within an organization. Adjustments can be made based on specific organizational needs and job market requirements.

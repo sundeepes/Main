@@ -1,0 +1,30 @@
+L1 - Junior AWS Administrator/DevOps Engineer
+Job Title: Junior AWS Administrator/DevOps Engineer
+Department/Group: IT Operations
+Location: [Specify location]
+Grade: L1
+Role: Provide operational support for AWS infrastructure and assist in DevOps activities.
+Experience: 0-2 years of relevant experience.
+
+Roles and Responsibilities:
+Assist in provisioning, monitoring, and maintaining AWS resources.
+Participate in troubleshooting and resolution of incidents related to AWS services.
+Contribute to automation efforts using scripting languages like Python or Bash.
+Assist in implementing CI/CD pipelines and deployment processes.
+Assist in the setup and configuration of AWS services such as IAM, S3 buckets, and CloudWatch alarms.
+Monitor AWS infrastructure for performance and cost optimization opportunities.
+Participate in regular security assessments and implement best practices for securing AWS resources.
+Collaborate with cross-functional teams to troubleshoot and resolve issues related to AWS services.
+Contribute to documentation efforts by creating and updating technical documentation for AWS configurations and processes.
+
+Qualifications and Education Requirements:
+Bachelor's degree in Computer Science, Information Technology, or related field.
+Basic understanding of AWS services and infrastructure.
+Familiarity with DevOps principles and practices.
+
+
+Preferred Skills:
+AWS Certified Cloud Practitioner or equivalent certification.
+Basic knowledge of configuration management tools like Ansible or Chef.
+Exposure to containerization technologies like Docker.
+

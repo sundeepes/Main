@@ -1,0 +1,28 @@
+L3 - Senior AWS Administrator/DevOps Engineer
+Job Title: Senior AWS Administrator/DevOps Engineer
+Department/Group: Cloud Operations
+Location: [Specify location]
+Grade: L3
+Role: Lead AWS infrastructure operations and drive DevOps best practices across the organization.
+Experience: 4-6 years of relevant experience.
+
+Roles and Responsibilities:
+Design, deploy, and maintain highly available and scalable AWS architectures.
+Lead efforts to automate infrastructure provisioning, configuration management, and deployment processes.
+Establish and enforce security best practices for AWS environments.
+Mentor junior team members and collaborate with cross-functional teams on DevOps initiatives.
+Architect and implement highly available and fault-tolerant AWS solutions using best practices and design patterns.
+Evaluate new AWS services and features and make recommendations for their adoption based on business needs.
+Lead the implementation of advanced monitoring and alerting solutions for AWS infrastructure using tools like AWS CloudWatch and Prometheus.
+Develop and maintain automated testing frameworks for validating infrastructure changes and application deployments in AWS environments.
+Serve as a subject matter expert (SME) for AWS-related technologies and provide training and knowledge sharing sessions for team members and stakeholders.
+
+Qualifications and Education Requirements:
+Bachelor's degree in Computer Science, Information Technology, or related field.
+Extensive experience with AWS services and infrastructure management.
+Proficiency in scripting and programming languages like Python, Bash, or Ruby.
+
+Preferred Skills:
+AWS Certified Solutions Architect - Professional or AWS Certified DevOps Engineer - Professional certification.
+Strong knowledge of CI/CD concepts and experience with tools like Jenkins or GitLab CI/CD.
+Experience with logging and monitoring tools like CloudWatch, ELK Stack, or Prometheus.

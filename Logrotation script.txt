@@ -1,0 +1,12 @@
+/var/log/syslog {
+    rotate 7
+    daily
+    compress
+    delaycompress
+    missingok
+    notifempty
+    create 0644 root root
+    postrotate
+        /usr/sbin/service rsyslog restart > /dev/null 2>&1 || true
+    endscript
+}
